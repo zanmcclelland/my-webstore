@@ -9,10 +9,10 @@ Backend/.vs/
 *.pdb
 
 # React
-frontend/node_modules/
-frontend/build/
-frontend/.env.local
-frontend/.env
+Frontend/node_modules/
+Frontend/build/
+Frontend/.env.local
+Frontend/.env
 
 # General
 .DS_Store
