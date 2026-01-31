@@ -9,10 +9,15 @@ Backend/.vs/
 *.pdb
 
 # React
-Frontend/node_modules/
-Frontend/build/
-Frontend/.env.local
-Frontend/.env
+# Dependencies
+node_modules/
+
+# Production builds
+build/
+
+# Environment variables
+.env.local
+.env
 
 # General
 .DS_Store
